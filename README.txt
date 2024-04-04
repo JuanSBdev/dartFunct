@@ -1,0 +1,3 @@
+¡Bienvenido al repositorio de funciones Dart aplicadas en Flutter y FlutterFlow!
+
+Este repositorio está dedicado a almacenar una colección de funciones escritas en Dart, especialmente diseñadas para su uso en proyectos de Flutter y FlutterFlow. Desde cálculos matemáticos hasta manipulación de datos y funciones de utilidad, aquí encontrarás una variedad de herramientas listas para ser integradas en tus aplicaciones móviles y web.
